@@ -402,6 +402,24 @@ RFM-based customer segmentation focused on customer behaviour and business value
 
 <div align="center">
 
+<!--
+Uploaded fallback snake.
+Place github-contribution-grid-snake.svg in the root of this repository.
+-->
+
+<img
+  src="./github-contribution-grid-snake.svg"
+  width="96%"
+  alt="GitHub Contribution Snake"/>
+
+<br>
+
+<sub>Contribution activity visualized with GitHub contribution snake.</sub>
+
+<br><br>
+
+<!-- Automatically generated personal snake -->
+
 <picture>
 
 <source
@@ -415,7 +433,7 @@ RFM-based customer segmentation focused on customer behaviour and business value
 <img
   src="https://raw.githubusercontent.com/jismon-george/jismon-george/output/github-snake.svg"
   width="96%"
-  alt="GitHub Contribution Snake">
+  alt="Automatically Generated GitHub Contribution Snake">
 
 </picture>
 
@@ -620,7 +638,9 @@ Communicate results that support decisions.
 <p align="center">
 
 <a href="https://jismonportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+
 <a href="https://github.com/jismon-george"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+
 <a href="https://www.linkedin.com/in/jismon-george-7b4251215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
@@ -637,20 +657,17 @@ Communicate results that support decisions.
 
 ---
 
-<!--
-============================================================
-CONTRIBUTION SNAKE WORKFLOW
-============================================================
+<!-- =========================================================
+     CONTRIBUTION SNAKE GITHUB ACTION
+     =========================================================
 
-IMPORTANT:
 README.md cannot execute GitHub Actions.
 
-For the personalized contribution snake to work,
-create this separate file:
+Create this file separately:
 
 .github/workflows/snake.yml
 
-Paste the following into that file:
+Use the following workflow:
 
 ------------------------------------------------------------
 
@@ -696,13 +713,9 @@ jobs:
         with:
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
           publish_dir: ./dist
-
           publish_branch: output
-
           force_orphan: true
-
           commit_message: "Update contribution snake"
 
 ------------------------------------------------------------
@@ -731,29 +744,28 @@ Generate Contribution Snake
     ↓
 Run workflow
 
-The workflow will generate:
+The workflow generates:
 
 output/
 ├── github-snake.svg
 ├── github-snake-dark.svg
 └── github-snake-light.svg
 
-The README loads:
+The README automatically loads the generated version from:
 
 https://raw.githubusercontent.com/jismon-george/jismon-george/output/github-snake.svg
 
-Dark:
+Dark version:
 
 https://raw.githubusercontent.com/jismon-george/jismon-george/output/github-snake-dark.svg
 
-Light:
+Light version:
 
 https://raw.githubusercontent.com/jismon-george/jismon-george/output/github-snake-light.svg
 
 ============================================================
-END SNAKE SETUP
-============================================================
--->
+END CONTRIBUTION SNAKE SETUP
+============================================================ -->
 
 <div align="center">
 
