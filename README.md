@@ -406,10 +406,7 @@ RFM-based customer segmentation focused on customer behaviour and business value
 Uploaded fallback snake.
 Place github-contribution-grid-snake.svg in the root of this repository.
 -->
-
 <br>
-<br><br>
-
 <!-- Automatically generated personal snake -->
 
 <picture>
