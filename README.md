@@ -1,9 +1,6 @@
 <div align="center">
 
 # JISMON GEORGE
-
-### AI / Machine Learning Engineer · Data Scientist · Data Analyst
-
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=21&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=850&height=45&lines=AI+%2F+Machine+Learning+Engineer+%26+Data+Scientist;Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Actionable+Insights;Building+Data-Driven+Solutions" alt="Typing Introduction"/>
 
 <br>
