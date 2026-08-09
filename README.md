@@ -407,11 +407,6 @@ Uploaded fallback snake.
 Place github-contribution-grid-snake.svg in the root of this repository.
 -->
 
-<img
-  src="./github-contribution-grid-snake.svg"
-  width="96%"
-  alt="GitHub Contribution Snake"/>
-
 <br>
 
 <sub>Contribution activity visualized with GitHub contribution snake.</sub>
