@@ -408,9 +408,6 @@ Place github-contribution-grid-snake.svg in the root of this repository.
 -->
 
 <br>
-
-<sub>Contribution activity visualized with GitHub contribution snake.</sub>
-
 <br><br>
 
 <!-- Automatically generated personal snake -->
