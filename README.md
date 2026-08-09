@@ -401,20 +401,12 @@ RFM-based customer segmentation focused on customer behaviour and business value
 # Contribution Snake
 
 <div align="center">
-
-<!--
-Uploaded fallback snake.
-Place github-contribution-grid-snake.svg in the root of this repository.
--->
 <br>
 <!-- Automatically generated personal snake -->
-
 <picture>
-
 <source
   media="(prefers-color-scheme: dark)"
   srcset="https://raw.githubusercontent.com/jismon-george/jismon-george/output/github-snake-dark.svg">
-
 <source
   media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/jismon-george/jismon-george/output/github-snake.svg">
@@ -633,15 +625,11 @@ Communicate results that support decisions.
 <a href="https://www.linkedin.com/in/jismon-george-7b4251215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
-
 <br>
-
 > **Turning data into insights. Building intelligence from information.**
 
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FFFFFF,100:F6F8FA" alt="Footer"/>
-
 </div>
 
 ---
